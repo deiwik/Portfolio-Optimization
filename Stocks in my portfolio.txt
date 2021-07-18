@@ -1,0 +1,13 @@
+> 
+
+1.   Hindustan Unilever Limited(FMCG)
+2.   ICICI (Banking)
+3. Tesla(Automobile/space aviation)
+4. TCS (IT)
+5. Cipla (Pharma)
+
+Initially we choose sectors that are expected to grow and we 
+select a company(s) which is(are) expected to perform well in that particular sector (efficient frontier). we usually try to identify companies that have a favorable net debt position and are improving their net margins. Investing in blue chip stocks is a good option as their returns are more certain and are expected to be stable even at the time of crises.
+
+*  Increasing the number of stocks in our portfolio is same as increasing the number of sources of our income. Our portfolio should be a perfect balance of stocks with high return(risk is an inherent part of high returns) with that of blue chip stocks (regarding weightage).Basically more number of stocks make our portfolio diversified and reduces risk.
+"""
